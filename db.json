@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "carlos d",
+      "empresa": "google ",
+      "email": "charly@gmail.com",
+      "telefono": "4471447124",
+      "notas": "como estas",
+      "id": 1
+    },
+    {
+      "nombre": "carlos d",
+      "empresa": "google ",
+      "email": "charly@gmail.com",
+      "telefono": "4471447124",
+      "notas": "como estas",
+      "id": 2
+    }
+  ]
+}
